@@ -1,0 +1,66 @@
+@charset "UTF-8";
+
+html{
+  height: 100% !important;
+}
+
+body{
+  height: 100% !important;
+}
+div.wrapper{
+  height: 100% !important;
+}
+
+a.navbar-brand {
+  width: 120px !important;
+  height:60px !important;
+}
+
+img.img_logo{
+  width: 100px !important;
+  height:50px !important;
+  padding: auto;
+
+}
+
+div.dropdown-menu.show{
+
+}
+img.header_icon{
+  width: 50px !important;
+  height: 50px !important;
+  text-align: right !important;
+}
+div#navbarsExampleDefault.navbar-collapse.offcanvas-collapse{
+
+}
+
+
+div.spacer{
+  width: 800px !important;
+}
+
+form.form-inline{
+  margin: auto !important;
+  padding: 16px;
+}
+form.form-control{
+  width : 20%!important;
+}
+
+div.maincontents{
+  height:500px;
+}
+a#dropdown01{
+
+}
+div.dropdown-menu{
+
+}
+.nav-scroller{
+  margin-top:0;
+}
+img.logo-footer{
+  width: 43px !important;
+  height: 56px !important;
+}
