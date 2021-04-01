@@ -1,4 +1,4 @@
-# Pineapple-Live
+# Pineapple　Live
 #### 販売者は生配信で自分の商品宣伝出来るCtoCのECサイト
 
 ### こだわったポイント
